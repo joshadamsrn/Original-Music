@@ -1,55 +1,55 @@
 const tracks = [
   {
     title: "Fusion",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1998",
     file: "audio/05 Fusion.m4a",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Dream Within Piano Solo",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1995",
     file: "audio/Dream Within (Piano Solo).mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Dream Within",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1995",
     file: "audio/Dream Within.mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Heavens Gate",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1995",
     file: "audio/Heavens Gate.mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Its All Good",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1995",
     file: "audio/Its All Good.mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Legend",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1995",
     file: "audio/Legend.mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Memories",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1995",
     file: "audio/Memories.mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Paradise",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1995",
     file: "audio/Paradise.mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Surrounding Love",
-    artist: "Josh Adams",
+    artist: "Josh Adams - 1993",
     file: "audio/Surrounding Love.mp3",
     cover: "images/music-cover.jpeg"
   }
