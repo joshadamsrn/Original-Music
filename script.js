@@ -2,13 +2,13 @@ const tracks = [
   {
     title: "You",
     artist: "Josh Adams - 2018",
-    file: "audio/05 You.mp3",
+    file: "audio/You.mp3",
     cover: "images/music-cover.jpeg"
   },
   {
     title: "Swagger",
     artist: "Josh Adams - 2007",
-    file: "audio/05 Swagger.mp3",
+    file: "audio/Swagger.mp3",
     cover: "images/music-cover.jpeg"
   },  
   {
