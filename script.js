@@ -1,5 +1,17 @@
 const tracks = [
   {
+    title: "You",
+    artist: "Josh Adams - 2018",
+    file: "audio/05 You.mp3",
+    cover: "images/music-cover.jpeg"
+  },
+  {
+    title: "Swagger",
+    artist: "Josh Adams - 2007",
+    file: "audio/05 Swagger.mp3",
+    cover: "images/music-cover.jpeg"
+  },  
+  {
     title: "Fusion",
     artist: "Josh Adams - 1998",
     file: "audio/05 Fusion.m4a",
